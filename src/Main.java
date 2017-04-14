@@ -58,6 +58,8 @@ public class Main {
                 input =  input.substring(1);
             }
             return input + "ay";
+
+            //added a comment to test GitHub
         }
 
 
